@@ -1,7 +1,7 @@
 PODS:
-  - Charts (3.0.5):
-    - Charts/Core (= 3.0.5)
-  - Charts/Core (3.0.5)
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
   - CSV.swift (2.1.0)
   - Differentiator (3.0.2)
   - RxCocoa (4.1.2):
@@ -23,7 +23,7 @@ DEPENDENCIES:
   - SnapKit (~> 4.0)
 
 SPEC CHECKSUMS:
-  Charts: 45cdc985b764c838b35ee47eb1365d15735f6d1a
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
   CSV.swift: a24fb11c17875523783fe963592762ff163ef8ea
   Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
   RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
@@ -33,4 +33,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: cfcbbc593de47edc6a507546d25bf154fdabc3ad
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.3.1
